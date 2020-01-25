@@ -2,6 +2,7 @@
 * http://csharp-video-tutorials.blogspot.com/2017/06/angular-2-tutorial-for-beginners_12.html
 * http://csharp-video-tutorials.blogspot.com/2017/10/angular-cli-tutorial-for-beginners.html
 * http://csharp-video-tutorials.blogspot.com/2017/12/angular-crud-tutorial.html
+* http://csharp-video-tutorials.blogspot.com/2018/09/angular-6-tutorial-for-beginners.html
 
 
 ## Angular Topics
